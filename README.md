@@ -1,0 +1,1 @@
+# Industrial-Robot-Forward-and-Inverse-Kinematic-Calculation
