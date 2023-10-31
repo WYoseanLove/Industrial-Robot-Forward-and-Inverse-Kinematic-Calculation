@@ -4,3 +4,4 @@ Robot_Kinematic_Calculation used to calculate the familiar industrial Robot (KUK
 Usage: 6 DOF Industrial Robot forward Kinematic and inverse Kinematic, can be modified to other industry robot like ABB, FANUC and Kawasaki
 
 References: https://www.youtube.com/watch?v=C0H8XsSPGyo https://www.youtube.com/watch?v=NDEEKGEQylg
+Previous repository(https://github.com/WYoseanLove/KUKA-Robot-Forward-Inverse-Kinematic-Calculation-.git ) is only for KUKA Robot, the new repository is updated for normal industrial Robot and optimize the inverse kinematic calculation method, all the possible solutions can be got and also verified in SIEMENS Process simulate
